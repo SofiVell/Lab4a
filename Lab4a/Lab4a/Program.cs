@@ -1,4 +1,6 @@
 ﻿// Варіант 8
+
+
 class Program
 {
     static void Main()
@@ -36,4 +38,5 @@ class Program
                 break;
         }
     }
+
 }
